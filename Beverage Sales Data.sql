@@ -1,4 +1,4 @@
---Take a quick look at the table. What do the columns and values look like. What kind of questions can we ASk to find some important data?
+--Take a quick look at the table. What do the columns and values look like? What kind of questions can we ASk to find some important data?
 SELECT TOP 5 *
 FROM beverages;
 
